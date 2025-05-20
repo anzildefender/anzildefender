@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Email Phishing Analysis Labs        | <a href="https://google.com](https://github.com/anzildefender/Email-Phishing-Analysis-Labs/tree/main">Detection Lab</a>|
+| Email Phishing Analysis Labs        | <a href="https://github.com/anzildefender/Email-Phishing-Analysis-Labs/tree/main">View Documentation</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
