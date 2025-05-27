@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Practical Labs/Projects                                         | Documentation         |
 |-----------------------------------------------|----------------------------|
 | Email Phishing Analysis Labs        | <a href="https://github.com/anzildefender/Email-Phishing-Analysis-Labs/tree/main">View Documentation</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/anzildefender/Identity-Compromise-Investigations">Identity Compromise Investigations Lab</a>|
+| Identity Compromise Investigation Labs | <a href="https://github.com/anzildefender/Identity-Compromise-Investigations"></a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
