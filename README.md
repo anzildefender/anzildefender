@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Practical Labs/Projects                                         | Documentation         |
 |-----------------------------------------------|----------------------------|
 | Email Phishing Analysis Labs        | <a href="https://github.com/anzildefender/Email-Phishing-Analysis-Labs/tree/main">View Documentation</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/anzildefender/Identity-Compromise-Investigations">Identity Compromise Investigations Lab</a>|
